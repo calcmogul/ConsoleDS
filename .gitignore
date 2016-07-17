@@ -1,0 +1,10 @@
+*.o
+*.exe
+ConsoleDS
+*.swp
+
+# Qt-generated files
+moc_*
+Makefile*
+*.pro.user
+.qmake.stash
